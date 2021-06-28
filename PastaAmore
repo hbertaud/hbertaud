@@ -1,0 +1,66 @@
+<!doctype html>
+<header>
+	<h1><img src="Pasta Amore.png" width="350" height="750" alt=""/>
+</h1>
+	</header>
+<nav>
+<ul>
+ <li><a href="index.html">Home</a></li>
+ <li><a href="#">Menu</a></li>
+ <li><a href="#">Reservations </a></li>
+ <li><a href="#">Order Online</a></li>
+	<li><a href="#">Delivery</a></li>
+</ul>
+</nav>
+<html>
+<head>
+<meta charset="UTF-8">
+<title> Pasta Amore </title>
+</head>
+	<p style="font-size: 0.9rem;font-style: italic;"><img style="display: block;" src="https://live.staticflickr.com/5269/5564867562_9c21c760aa_b.jpg" alt="Pasta with Spinach and Parmesan"><a href="https://www.flickr.com/photos/53470512@N07/5564867562">"Pasta with Spinach and Parmesan"</a><span> by <a href="https://www.flickr.com/photos/53470512@N07">artizone</a></span> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/?ref=ccsearch&atype=html" style="margin-right: 5px;">CC BY-NC-ND 2.0</a><a href="https://creativecommons.org/licenses/by-nc-nd/2.0/?ref=ccsearch&atype=html" target="_blank" rel="noopener noreferrer" style="display: inline-block;white-space: none;margin-top: 2px;margin-left: 3px;height: 22px !important;"><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc_icon.svg?image_id=6baf7815-b185-42b1-b1c4-9ff4c5197bbd" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-by_icon.svg" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-nc_icon.svg" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-nd_icon.svg" /></a></p>
+	<header>
+	<h2>Our Mission</h2>
+	</header>
+<body>
+<p>To provide a warm atmosphere for your family where we
+  can share the traditional cuisines of Italy. Our food will
+  always be fun, fresh and filled with love. 
+  Pasta Amore combines the cooking traditions
+  and ingredients of Italy with creativity,
+  providing a modern twist on timeless classics.&nbsp;</p>
+	<p style="font-size: 0.9rem;font-style: italic;"><img style="display: block;" src="https://live.staticflickr.com/1225/5109155958_c8934af543_b.jpg" alt="italian restaurant"><a href="https://www.flickr.com/photos/11758702@N02/5109155958">"italian restaurant"</a><span> by <a href="https://www.flickr.com/photos/11758702@N02">unicellular</a></span> is licensed under <a href="https://creativecommons.org/licenses/by-sa/2.0/?ref=ccsearch&atype=html" style="margin-right: 5px;">CC BY-SA 2.0</a><a href="https://creativecommons.org/licenses/by-sa/2.0/?ref=ccsearch&atype=html" target="_blank" rel="noopener noreferrer" style="display: inline-block;white-space: none;margin-top: 2px;margin-left: 3px;height: 22px !important;"><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc_icon.svg?image_id=3d7f7d88-4f02-4db3-94c8-dd892b972703" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-by_icon.svg" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-sa_icon.svg" /></a></p>
+	<header>
+	<h3>Our Vision</h3>
+	</header> 
+	<section vision="our-vision">
+<p>For the future is to grow and learn
+  along with our customers. In doing so, we aim
+  to provide an atmosphere that enables this
+  growth and fuels the passion that lives within
+  the essence of the brand.
+  The approach of Pasta Amore is to develop
+  our brand with the understanding of both
+  our culture and consumer insights. Within
+  our vision always lives the promise of inspiring
+  creativity, conversation and quality. </p>
+	<p style="font-size: 0.9rem;font-style: italic;"><img style="display: block;" src="https://live.staticflickr.com/2233/1572309218_0c5a77b6f0_b.jpg" alt="Busy Restaurant"><a href="https://www.flickr.com/photos/29241010@N00/1572309218">"Busy Restaurant"</a><span> by <a href="https://www.flickr.com/photos/29241010@N00">marttj</a></span> is licensed under <a href="https://creativecommons.org/licenses/by-nc/2.0/?ref=ccsearch&atype=html" style="margin-right: 5px;">CC BY-NC 2.0</a><a href="https://creativecommons.org/licenses/by-nc/2.0/?ref=ccsearch&atype=html" target="_blank" rel="noopener noreferrer" style="display: inline-block;white-space: none;margin-top: 2px;margin-left: 3px;height: 22px !important;"><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc_icon.svg?image_id=231c18dc-deee-42b1-8b40-0a586890992e" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-by_icon.svg" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-nc_icon.svg" /></a></p>
+	</section>
+	<footer>
+		<ul>
+			<li>123 First st. New York, NY 12345</li>
+			<li>123.456.7891</li>
+			<li>@pasta_amore_ny / Instagram</li>
+			<li>Pasta Amore / Facebook</li>
+			
+		</ul>
+	</footer>
+</body>
+</html>
+<nav>
+<ul>
+ <li><a href="index.html">Home</a></li>
+ <li><a href="#">Menu</a></li>
+ <li><a href="#">Reservations </a></li>
+ <li><a href="#">Order Online</a></li>
+	<li><a href="#">Delivery</a></li>
+</ul>
